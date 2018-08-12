@@ -1,0 +1,13 @@
+# idea projects
+.idea/
+*.iml
+*.ipl
+*.ipr
+
+# maven project
+.mvn/
+target/
+
+# systemfiles
+.DS_Store
+*.swp
